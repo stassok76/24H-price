@@ -1,0 +1,9 @@
+{
+ "captured_at": "20261112T021248Z",
+ "page": "https://www.gate.com/trade-events/btc-updown-1h",
+ "page_status": 403,
+ "title": "Access Denied",
+ "text_head": "Access Denied\nYou don't have permission to access \"http://www.gate.com/trade-events/btc-updown-1h\" on this server.\n\nReference #18.244ddb17.1794449570.9e97306b\n\nhttps://errors.edgesuite.net/18.244ddb17.1794449570.9e97306b",
+ "json_responses": [],
+ "ws_frames": []
+}
