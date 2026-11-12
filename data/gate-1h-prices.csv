@@ -1,0 +1,2 @@
+period_start_utc,period_start_tpe,late,t1_at,t1_delay_s,ask_up_t1,ask_down_t1,sum_t1,t2_at,t2_delay_s,ask_up_t2,ask_down_t2,sum_t2,prev_fast_dir,bet_dir,bet_ask,base_open,settle_close,outcome,result,pnl,cum_pnl,status,note
+2026-11-12T10:00:00+00:00,2026-11-12 18:00,1,2026-11-12T10:22:57+00:00,1378,,,,2026-11-12T10:23:08+00:00,1388,,,,down,up,,,,,,,,error,page 403
